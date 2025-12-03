@@ -76,4 +76,5 @@ Alguns projetos ainda estão em desenvolvimento privado e não estão prontos pa
 
 ## Estatísticas do GitHub
 ![Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Matheus-Telles-dev&show_icons=true&hide_border=true)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-Telles-dev&theme=github_dark)
 ![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Matheus-Telles-dev&layout=compact&hide_border=true)
