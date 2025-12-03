@@ -4,7 +4,7 @@
 
 # Matheus — Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational)](www.linkedin.com/in/matheus-telles-783423298)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational)](https://www.linkedin.com/in/matheus-telles-783423298/)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
 ![React Native](https://img.shields.io/badge/Mobile-React%20Native-blueviolet)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
@@ -34,8 +34,8 @@ Currently pursuing a **degree in Systems Analysis and Development** and developi
 Some projects are still in private development and not yet ready for public release. Public repositories below reflect study, experiments, and tooling.
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Telles-dev&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Telles-dev&layout=compact&theme=default&hide_border=true)
+![Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Matheus-Telles-dev&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Matheus-Telles-dev&layout=compact&hide_border=true)
 
 ---
 
@@ -45,7 +45,7 @@ Some projects are still in private development and not yet ready for public rele
 
 # Matheus — Desenvolvedor de Software
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational)](www.linkedin.com/in/matheus-telles-783423298)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational)](https://www.linkedin.com/in/matheus-telles-783423298/)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
 ![React Native](https://img.shields.io/badge/Mobile-React%20Native-blueviolet)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
@@ -75,5 +75,5 @@ Cursando **Análise e Desenvolvimento de Sistemas**, focado em engenharia de sof
 Alguns projetos ainda estão em desenvolvimento privado e não estão prontos para publicação. Repositórios públicos refletem estudos, experimentos e ferramentas.
 
 ## Estatísticas do GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Telles-dev&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Telles-dev&layout=compact&theme=default&hide_border=true)
+![Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Matheus-Telles-dev&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Matheus-Telles-dev&layout=compact&hide_border=true)
