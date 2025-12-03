@@ -1,6 +1,6 @@
 # Matheus — Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-telles-783423298/)
 
 ---
 
