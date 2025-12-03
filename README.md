@@ -22,17 +22,7 @@ Currently pursuing a degree in **Systems Analysis** and integrating **AI (LLMs)*
 
 ---
 
-## 🚀 Featured Projects
-
-### [Nome do Seu Melhor Projeto Público]
-Uma breve descrição de uma linha sobre o que esse app faz.
-> **Techs:** React Native, Node.js, AI
-> [Link para o Repositório]
-
-*(Dica: Se não tiver projetos públicos "perfeitos", fixe seus melhores repositórios de estudo no perfil do GitHub, logo abaixo do README).*
-
----
-
 ## 📫 Contact
+*   **Email:** [matheustelles.dev@gmail.com](mailto:matheustelles.dev@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/matheus-telles-783423298](https://www.linkedin.com/in/matheus-telles-783423298/)
-*   **Location:** [Sua Cidade], Brazil
+*   **Location:** Brazil
