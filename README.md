@@ -34,8 +34,8 @@ Currently pursuing a **degree in Systems Analysis and Development** and developi
 Some projects are still in private development and not yet ready for public release. Public repositories below reflect study, experiments, and tooling.
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Telles-dev&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Telles-dev&layout=compact&theme=default&hide_border=true)
 
 ---
 
@@ -75,5 +75,5 @@ Cursando **Análise e Desenvolvimento de Sistemas**, focado em engenharia de sof
 Alguns projetos ainda estão em desenvolvimento privado e não estão prontos para publicação. Repositórios públicos refletem estudos, experimentos e ferramentas.
 
 ## Estatísticas do GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Telles-dev&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Telles-dev&layout=compact&theme=default&hide_border=true)
